@@ -17,5 +17,5 @@ O projeto é uma pagina web que recebe nomes e monta uma lista, em seguida sorte
 A interação com o usuário e as alterações são principalmente feitas com JavaScript.
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=30/>
           
