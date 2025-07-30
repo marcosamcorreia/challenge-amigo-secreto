@@ -22,7 +22,7 @@ function sortearAmigo(){
         alert("Adicione mais um nome")
     }else{
         let sorteia=parseInt(Math.random()*max)
-        campoResultado.innerHTML=listaDeAmigos[sorteia]
+        campoResultado.innerHTML=`O nome sorteado é: ${listaDeAmigos[sorteia]}`
 
     }
 }
